@@ -1,0 +1,10 @@
+C:\Users\j8843\source\repos\CSharpTest\bin\Debug\CSharpTest.exe.config
+C:\Users\j8843\source\repos\CSharpTest\bin\Debug\CSharpTest.exe
+C:\Users\j8843\source\repos\CSharpTest\bin\Debug\CSharpTest.pdb
+C:\Users\j8843\source\repos\CSharpTest\obj\Debug\CSharpTest.csprojAssemblyReference.cache
+C:\Users\j8843\source\repos\CSharpTest\obj\Debug\CSharpTest.Form1.resources
+C:\Users\j8843\source\repos\CSharpTest\obj\Debug\CSharpTest.Properties.Resources.resources
+C:\Users\j8843\source\repos\CSharpTest\obj\Debug\CSharpTest.csproj.GenerateResource.cache
+C:\Users\j8843\source\repos\CSharpTest\obj\Debug\CSharpTest.csproj.CoreCompileInputs.cache
+C:\Users\j8843\source\repos\CSharpTest\obj\Debug\CSharpTest.exe
+C:\Users\j8843\source\repos\CSharpTest\obj\Debug\CSharpTest.pdb
