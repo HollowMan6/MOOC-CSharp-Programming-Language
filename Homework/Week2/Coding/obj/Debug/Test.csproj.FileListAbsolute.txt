@@ -1,0 +1,20 @@
+D:\MOOC C# Programming Language\Example\2.3\Test\bin\Debug\Test.exe.config
+D:\MOOC C# Programming Language\Example\2.3\Test\bin\Debug\Test.exe
+D:\MOOC C# Programming Language\Example\2.3\Test\bin\Debug\Test.pdb
+D:\MOOC C# Programming Language\Example\2.3\Test\obj\Debug\Test.csprojAssemblyReference.cache
+D:\MOOC C# Programming Language\Example\2.3\Test\obj\Debug\Test.Form1.resources
+D:\MOOC C# Programming Language\Example\2.3\Test\obj\Debug\Test.Properties.Resources.resources
+D:\MOOC C# Programming Language\Example\2.3\Test\obj\Debug\Test.csproj.GenerateResource.cache
+D:\MOOC C# Programming Language\Example\2.3\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+D:\MOOC C# Programming Language\Example\2.3\Test\obj\Debug\Test.exe
+D:\MOOC C# Programming Language\Example\2.3\Test\obj\Debug\Test.pdb
+D:\Test\bin\Debug\Test.exe.config
+D:\Test\bin\Debug\Test.exe
+D:\Test\bin\Debug\Test.pdb
+D:\Test\obj\Debug\Test.csprojAssemblyReference.cache
+D:\Test\obj\Debug\Test.Form1.resources
+D:\Test\obj\Debug\Test.Properties.Resources.resources
+D:\Test\obj\Debug\Test.csproj.GenerateResource.cache
+D:\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+D:\Test\obj\Debug\Test.exe
+D:\Test\obj\Debug\Test.pdb
