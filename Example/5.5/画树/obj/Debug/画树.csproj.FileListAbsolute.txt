@@ -1,0 +1,10 @@
+D:\软件\GitHub\MOOC-CSharp-Programming-Language\Example\5.5\画树\obj\Debug\画树.csprojAssemblyReference.cache
+D:\软件\GitHub\MOOC-CSharp-Programming-Language\Example\5.5\画树\obj\Debug\画树.Form1.resources
+D:\软件\GitHub\MOOC-CSharp-Programming-Language\Example\5.5\画树\obj\Debug\画树.Properties.Resources.resources
+D:\软件\GitHub\MOOC-CSharp-Programming-Language\Example\5.5\画树\obj\Debug\画树.csproj.GenerateResource.cache
+D:\软件\GitHub\MOOC-CSharp-Programming-Language\Example\5.5\画树\obj\Debug\画树.csproj.CoreCompileInputs.cache
+D:\软件\GitHub\MOOC-CSharp-Programming-Language\Example\5.5\画树\bin\Debug\画树.exe.config
+D:\软件\GitHub\MOOC-CSharp-Programming-Language\Example\5.5\画树\bin\Debug\画树.exe
+D:\软件\GitHub\MOOC-CSharp-Programming-Language\Example\5.5\画树\bin\Debug\画树.pdb
+D:\软件\GitHub\MOOC-CSharp-Programming-Language\Example\5.5\画树\obj\Debug\画树.exe
+D:\软件\GitHub\MOOC-CSharp-Programming-Language\Example\5.5\画树\obj\Debug\画树.pdb
