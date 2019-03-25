@@ -1,0 +1,14 @@
+C:\Users\j8843\Documents\VSCode\TestCsharp\bin\Debug\netcoreapp2.2\win10-x64\hostpolicy.dll
+C:\Users\j8843\Documents\VSCode\TestCsharp\bin\Debug\netcoreapp2.2\win10-x64\hostfxr.dll
+C:\Users\j8843\Documents\VSCode\TestCsharp\bin\Debug\netcoreapp2.2\win10-x64\TestCsharp.exe
+C:\Users\j8843\Documents\VSCode\TestCsharp\bin\Debug\netcoreapp2.2\win10-x64\TestCsharp.deps.json
+C:\Users\j8843\Documents\VSCode\TestCsharp\bin\Debug\netcoreapp2.2\win10-x64\TestCsharp.runtimeconfig.json
+C:\Users\j8843\Documents\VSCode\TestCsharp\bin\Debug\netcoreapp2.2\win10-x64\TestCsharp.runtimeconfig.dev.json
+C:\Users\j8843\Documents\VSCode\TestCsharp\bin\Debug\netcoreapp2.2\win10-x64\TestCsharp.dll
+C:\Users\j8843\Documents\VSCode\TestCsharp\bin\Debug\netcoreapp2.2\win10-x64\TestCsharp.pdb
+C:\Users\j8843\Documents\VSCode\TestCsharp\obj\Debug\netcoreapp2.2\win10-x64\TestCsharp.csprojAssemblyReference.cache
+C:\Users\j8843\Documents\VSCode\TestCsharp\obj\Debug\netcoreapp2.2\win10-x64\TestCsharp.csproj.CoreCompileInputs.cache
+C:\Users\j8843\Documents\VSCode\TestCsharp\obj\Debug\netcoreapp2.2\win10-x64\TestCsharp.AssemblyInfoInputs.cache
+C:\Users\j8843\Documents\VSCode\TestCsharp\obj\Debug\netcoreapp2.2\win10-x64\TestCsharp.AssemblyInfo.cs
+C:\Users\j8843\Documents\VSCode\TestCsharp\obj\Debug\netcoreapp2.2\win10-x64\TestCsharp.dll
+C:\Users\j8843\Documents\VSCode\TestCsharp\obj\Debug\netcoreapp2.2\win10-x64\TestCsharp.pdb
