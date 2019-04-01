@@ -1,0 +1,26 @@
+C:\prog_重要示例\WinForm--控件及继承\SevenSegment\bin\Debug\SevenSegTest.exe
+C:\prog_重要示例\WinForm--控件及继承\SevenSegment\bin\Debug\SevenSegTest.pdb
+C:\prog_重要示例\WinForm--控件及继承\SevenSegment\obj\Debug\ResolveAssemblyReference.cache
+C:\prog_重要示例\WinForm--控件及继承\SevenSegment\obj\Debug\SevenSegTest.Form1.resources
+C:\prog_重要示例\WinForm--控件及继承\SevenSegment\obj\Debug\SevenSegTest.Properties.Resources.resources
+C:\prog_重要示例\WinForm--控件及继承\SevenSegment\obj\Debug\SevenSegTest.csproj.GenerateResource.Cache
+C:\prog_重要示例\WinForm--控件及继承\SevenSegment\obj\Debug\SevenSegTest.exe
+C:\prog_重要示例\WinForm--控件及继承\SevenSegment\obj\Debug\SevenSegTest.pdb
+C:\csharp_winform培训\10 Windows窗体及控件\SevenSegment\obj\Debug\SevenSegTest.exe
+C:\csharp_winform培训\10 Windows窗体及控件\SevenSegment\obj\Debug\SevenSegTest.pdb
+C:\csharp课程\10 Windows窗体及控件\SevenSegment\obj\Debug\SevenSegTest.exe
+C:\csharp课程\10 Windows窗体及控件\SevenSegment\obj\Debug\SevenSegTest.pdb
+C:\csharp课程\10 Windows窗体及控件\SevenSegment\bin\Debug\SevenSegTest.exe
+C:\csharp课程\10 Windows窗体及控件\SevenSegment\bin\Debug\SevenSegTest.pdb
+C:\csharp课程\10 Windows窗体及控件\SevenSegment\obj\Debug\ResolveAssemblyReference.cache
+C:\csharp课程\10 Windows窗体及控件\SevenSegment\obj\Debug\SevenSegTest.Form1.resources
+C:\csharp课程\10 Windows窗体及控件\SevenSegment\obj\Debug\SevenSegTest.Properties.Resources.resources
+C:\csharp课程\10 Windows窗体及控件\SevenSegment\obj\Debug\SevenSegTest.csproj.GenerateResource.Cache
+D:\csharp课程\10 Windows窗体及控件\SevenSegment\obj\Debug\SevenSegTest.exe
+D:\csharp课程\10 Windows窗体及控件\SevenSegment\obj\Debug\SevenSegTest.pdb
+D:\csharp课程\10 Windows窗体及控件\SevenSegment\bin\Debug\SevenSegTest.exe
+D:\csharp课程\10 Windows窗体及控件\SevenSegment\bin\Debug\SevenSegTest.pdb
+D:\csharp课程\10 Windows窗体及控件\SevenSegment\obj\Debug\SevenSegTest.csprojResolveAssemblyReference.cache
+D:\csharp课程\10 Windows窗体及控件\SevenSegment\obj\Debug\SevenSegTest.Form1.resources
+D:\csharp课程\10 Windows窗体及控件\SevenSegment\obj\Debug\SevenSegTest.Properties.Resources.resources
+D:\csharp课程\10 Windows窗体及控件\SevenSegment\obj\Debug\SevenSegTest.csproj.GenerateResource.Cache

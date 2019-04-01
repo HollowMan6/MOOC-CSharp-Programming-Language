@@ -1,0 +1,34 @@
+I:\程序\Visual Studio 2008\File Explorer\资源管理器\bin\Debug\FileExplorer.exe
+I:\程序\Visual Studio 2008\File Explorer\资源管理器\bin\Debug\FileExplorer.pdb
+I:\程序\Visual Studio 2008\File Explorer\资源管理器\obj\Debug\ResolveAssemblyReference.cache
+I:\程序\Visual Studio 2008\File Explorer\资源管理器\obj\Debug\FileExplorer.Form1.resources
+I:\程序\Visual Studio 2008\File Explorer\资源管理器\obj\Debug\FileExplorer.FormAbout.resources
+I:\程序\Visual Studio 2008\File Explorer\资源管理器\obj\Debug\FileExplorer.FormAttributes.resources
+I:\程序\Visual Studio 2008\File Explorer\资源管理器\obj\Debug\FileExplorer.Properties.Resources.resources
+I:\程序\Visual Studio 2008\File Explorer\资源管理器\obj\Debug\资源管理器.csproj.GenerateResource.Cache
+I:\程序\Visual Studio 2008\File Explorer\资源管理器\obj\Debug\FileExplorer.exe
+I:\程序\Visual Studio 2008\File Explorer\资源管理器\obj\Debug\FileExplorer.pdb
+C:\prog_重要示例\WinForm--控件及继承\FileExplorer\File Explorer\资源管理器\obj\Debug\FileExplorer.exe
+C:\prog_重要示例\WinForm--控件及继承\FileExplorer\File Explorer\资源管理器\obj\Debug\FileExplorer.pdb
+C:\csharp_winform培训\10 Windows窗体及控件\FileExplorer\File Explorer\资源管理器\obj\Debug\FileExplorer.exe
+C:\csharp_winform培训\10 Windows窗体及控件\FileExplorer\File Explorer\资源管理器\obj\Debug\FileExplorer.pdb
+C:\csharp课程\10 Windows窗体及控件\FileExplorer\File Explorer\资源管理器\obj\Debug\FileExplorer.exe
+C:\csharp课程\10 Windows窗体及控件\FileExplorer\File Explorer\资源管理器\obj\Debug\FileExplorer.pdb
+C:\csharp课程\10 Windows窗体及控件\FileExplorer\File Explorer\资源管理器\bin\Debug\FileExplorer.exe
+C:\csharp课程\10 Windows窗体及控件\FileExplorer\File Explorer\资源管理器\bin\Debug\FileExplorer.pdb
+C:\csharp课程\10 Windows窗体及控件\FileExplorer\File Explorer\资源管理器\obj\Debug\ResolveAssemblyReference.cache
+C:\csharp课程\10 Windows窗体及控件\FileExplorer\File Explorer\资源管理器\obj\Debug\FileExplorer.Form1.resources
+C:\csharp课程\10 Windows窗体及控件\FileExplorer\File Explorer\资源管理器\obj\Debug\FileExplorer.FormAbout.resources
+C:\csharp课程\10 Windows窗体及控件\FileExplorer\File Explorer\资源管理器\obj\Debug\FileExplorer.FormAttributes.resources
+C:\csharp课程\10 Windows窗体及控件\FileExplorer\File Explorer\资源管理器\obj\Debug\FileExplorer.Properties.Resources.resources
+C:\csharp课程\10 Windows窗体及控件\FileExplorer\File Explorer\资源管理器\obj\Debug\资源管理器.csproj.GenerateResource.Cache
+D:\csharp课程\10 Windows窗体及控件\FileExplorer\File Explorer\资源管理器\obj\Debug\FileExplorer.exe
+D:\csharp课程\10 Windows窗体及控件\FileExplorer\File Explorer\资源管理器\obj\Debug\FileExplorer.pdb
+D:\csharp课程\10 Windows窗体及控件\FileExplorer\File Explorer\资源管理器\obj\Debug\资源管理器.csprojResolveAssemblyReference.cache
+D:\csharp课程\10 Windows窗体及控件\FileExplorer\File Explorer\资源管理器\obj\Debug\FileExplorer.Form1.resources
+D:\csharp课程\10 Windows窗体及控件\FileExplorer\File Explorer\资源管理器\obj\Debug\FileExplorer.FormAbout.resources
+D:\csharp课程\10 Windows窗体及控件\FileExplorer\File Explorer\资源管理器\obj\Debug\FileExplorer.FormAttributes.resources
+D:\csharp课程\10 Windows窗体及控件\FileExplorer\File Explorer\资源管理器\obj\Debug\FileExplorer.Properties.Resources.resources
+D:\csharp课程\10 Windows窗体及控件\FileExplorer\File Explorer\资源管理器\obj\Debug\资源管理器.csproj.GenerateResource.Cache
+D:\csharp课程\10 Windows窗体及控件\FileExplorer\File Explorer\资源管理器\bin\Debug\FileExplorer.exe
+D:\csharp课程\10 Windows窗体及控件\FileExplorer\File Explorer\资源管理器\bin\Debug\FileExplorer.pdb

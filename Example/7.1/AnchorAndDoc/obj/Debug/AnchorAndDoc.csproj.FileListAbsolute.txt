@@ -1,0 +1,8 @@
+D:\tmp\AnchorAndDoc\bin\Debug\AnchorAndDoc.exe
+D:\tmp\AnchorAndDoc\bin\Debug\AnchorAndDoc.pdb
+D:\tmp\AnchorAndDoc\obj\Debug\ResolveAssemblyReference.cache
+D:\tmp\AnchorAndDoc\obj\Debug\AnchorAndDoc.Form1.resources
+D:\tmp\AnchorAndDoc\obj\Debug\AnchorAndDoc.Properties.Resources.resources
+D:\tmp\AnchorAndDoc\obj\Debug\AnchorAndDoc.csproj.GenerateResource.Cache
+D:\tmp\AnchorAndDoc\obj\Debug\AnchorAndDoc.exe
+D:\tmp\AnchorAndDoc\obj\Debug\AnchorAndDoc.pdb
