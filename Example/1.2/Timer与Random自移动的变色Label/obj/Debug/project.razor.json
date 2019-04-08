@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "d:\\软件\\GitHub\\MOOC-CSharp-Programming-Language\\Example\\1.2\\Timer与Random自移动的变色Label\\Test.csproj",
+  "TargetFramework": "v4.7.2",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

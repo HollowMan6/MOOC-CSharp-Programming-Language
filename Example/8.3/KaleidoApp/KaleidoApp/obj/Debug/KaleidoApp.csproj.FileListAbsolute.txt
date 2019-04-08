@@ -1,0 +1,8 @@
+C:\csharp课程\12 绘图与图像\KaleidoApp\KaleidoApp\obj\Debug\ResolveAssemblyReference.cache
+C:\csharp课程\12 绘图与图像\KaleidoApp\KaleidoApp\obj\Debug\KaleidoApp.Form1.resources
+C:\csharp课程\12 绘图与图像\KaleidoApp\KaleidoApp\obj\Debug\KaleidoApp.Properties.Resources.resources
+C:\csharp课程\12 绘图与图像\KaleidoApp\KaleidoApp\obj\Debug\KaleidoApp.csproj.GenerateResource.Cache
+C:\csharp课程\12 绘图与图像\KaleidoApp\KaleidoApp\bin\Debug\KaleidoApp.exe
+C:\csharp课程\12 绘图与图像\KaleidoApp\KaleidoApp\bin\Debug\KaleidoApp.pdb
+C:\csharp课程\12 绘图与图像\KaleidoApp\KaleidoApp\obj\Debug\KaleidoApp.exe
+C:\csharp课程\12 绘图与图像\KaleidoApp\KaleidoApp\obj\Debug\KaleidoApp.pdb

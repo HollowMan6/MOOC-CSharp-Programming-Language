@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageProcessor", "ImageProcessor.csproj", "{E5221A23-4F29-4F4B-A389-6E3A573EC45A}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{E5221A23-4F29-4F4B-A389-6E3A573EC45A}.Debug.ActiveCfg = Debug|.NET
+		{E5221A23-4F29-4F4B-A389-6E3A573EC45A}.Debug.Build.0 = Debug|.NET
+		{E5221A23-4F29-4F4B-A389-6E3A573EC45A}.Release.ActiveCfg = Release|.NET
+		{E5221A23-4F29-4F4B-A389-6E3A573EC45A}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
