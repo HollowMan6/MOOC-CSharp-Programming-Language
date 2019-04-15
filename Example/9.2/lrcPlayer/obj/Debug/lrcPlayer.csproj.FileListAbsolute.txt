@@ -1,0 +1,12 @@
+D:\csharp课程\07 正则表达式\ch07\lrcPlayer\obj\Debug\Interop.WMPLib.dll
+D:\csharp课程\07 正则表达式\ch07\lrcPlayer\obj\Debug\AxInterop.WMPLib.dll
+D:\csharp课程\07 正则表达式\ch07\lrcPlayer\obj\Debug\lrcPlayer.csproj.ResolveComReference.cache
+D:\csharp课程\07 正则表达式\ch07\lrcPlayer\obj\Debug\lrcPlayer.exe
+D:\csharp课程\07 正则表达式\ch07\lrcPlayer\obj\Debug\lrcPlayer.pdb
+D:\csharp课程\07 正则表达式\ch07\lrcPlayer\bin\Debug\lrcPlayer.exe
+D:\csharp课程\07 正则表达式\ch07\lrcPlayer\bin\Debug\lrcPlayer.pdb
+D:\csharp课程\07 正则表达式\ch07\lrcPlayer\bin\Debug\Interop.WMPLib.dll
+D:\csharp课程\07 正则表达式\ch07\lrcPlayer\bin\Debug\AxInterop.WMPLib.dll
+D:\csharp课程\07 正则表达式\ch07\lrcPlayer\obj\Debug\lrcPlayer.csprojResolveAssemblyReference.cache
+D:\csharp课程\07 正则表达式\ch07\lrcPlayer\obj\Debug\lrcPlayer.Form1.resources
+D:\csharp课程\07 正则表达式\ch07\lrcPlayer\obj\Debug\lrcPlayer.csproj.GenerateResource.Cache
