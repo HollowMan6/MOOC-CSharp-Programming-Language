@@ -1,0 +1,7 @@
+C:\temp\SimpleWebCrawler\SimpleWebCrawler\obj\Debug\ResolveAssemblyReference.cache
+C:\temp\SimpleWebCrawler\SimpleWebCrawler\bin\Debug\SimpleWebCrawler.exe
+C:\temp\SimpleWebCrawler\SimpleWebCrawler\bin\Debug\SimpleWebCrawler.pdb
+C:\temp\SimpleWebCrawler\SimpleWebCrawler\obj\Debug\SimpleWebCrawler.exe
+C:\temp\SimpleWebCrawler\SimpleWebCrawler\obj\Debug\SimpleWebCrawler.pdb
+C:\csharp课程\09 网络信息获取\SimpleWebCrawler\SimpleWebCrawler\obj\Debug\SimpleWebCrawler.exe
+C:\csharp课程\09 网络信息获取\SimpleWebCrawler\SimpleWebCrawler\obj\Debug\SimpleWebCrawler.pdb

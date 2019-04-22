@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>联系方式 - 关于博客园 About CNBlogs</title>
+    <meta charset="utf-8"/>
+	<meta name="keywords" content="博客园简介,开发者,程序员,代码改变世界,开发者社区,coding"/>
+    <link href="http://common.cnblogs.com/css/reset.css" rel="Stylesheet" type="text/css" />
+	<link href="/css/about.css" rel="Stylesheet" type="text/css" />
+    <script src="http://common.cnblogs.com/script/jquery.js"></script>
+    <script src="/script/about.js"></script>
+</head>
+<body>
+<div id="top_nav"><div id="top_nav_left">«<a href="http://www.cnblogs.com" title="返回网站首页">首页</a><a href="http://q.cnblogs.com">博问</a><a href="http://news.cnblogs.com">新闻</a><a href="http://home.cnblogs.com/ing/">闪存</a><a href="http://kb.cnblogs.com/">知识库</a></div><div id="top_nav_right"></div></div>
+<div>
+<div id="main">
+    <div id="logo">
+        <a href="http://www.cnblogs.com/"><img src="/images/logo.gif" alt="博客园 logo" style="border:0px"/></a>
+    </div>
+    <div id="aboutus">
+        <img src="/images/about/about_cnbogs.gif" alt="关于博客园"/>
+    </div>
+    <div id="side_left">
+    <ul id="nav_block">
+    <li><a href="/about/intro.aspx">网站简介</a></li>
+    <li><a href="/about/contactus.aspx" class="current">联系方式</a></li>
+    <li><a href="/about/ad.aspx">广告服务</a></li>
+    <li><a href="/about/job.aspx">人才服务</a></li>
+    </ul>
+    </div>
+    <div id="side_right">
+    
+<h1>联系方式</h1>
+<div id="content">                
+    <ul id="history_block">
+        <li>
+            联系电话：021-58950900
+        </li>
+        <li>
+            电子邮件：<a href="mailto:contact&#64;cnblogs.com" target="_blank">contact&#64;cnblogs.com</a>
+        </li>
+        <li>
+            官方博客：<a href="http://www.cnblogs.com/cmt/" target="_blank">http://www.cnblogs.com/cmt/</a>
+        </li>
+    </ul>                
+</div>
+
+    </div>
+    <div class="clear"></div>
+</div>
+<div id="footer">
+    <a href="http://www.cnblogs.com/AboutUS.aspx">关于博客园</a><a href="http://www.cnblogs.com/ContactUs.aspx">联系我们</a><a href="/ad.aspx">广告服务</a><a href="/about/job.aspx">人才服务</a>&copy; 2004-2014<a href="http://www.cnblogs.com">博客园</a>
+</div>
+</div>
+</body>
+</html>

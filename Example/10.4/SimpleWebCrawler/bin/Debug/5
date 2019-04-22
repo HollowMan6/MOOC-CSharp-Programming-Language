@@ -1,0 +1,331 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>拓荒者 dstang2000 http://www.dstang.com - 博客园</title>
+<link type="text/css" rel="stylesheet" href="http://www.cnblogs.com/css/common.css"/>
+<link id="MainCss" type="text/css" rel="stylesheet" href="http://www.cnblogs.com/Skins/AnotherEon001/style.css"/><link type="text/css" rel="stylesheet" href="http://www.cnblogs.com/css/common2.css"/><link type="text/css" rel="stylesheet" href="http://common.cnblogs.com/css/shCore.css"/>
+<link type="text/css" rel="stylesheet" href="http://common.cnblogs.com/css/shThemeDefault.css"/>
+<link title="RSS" type="application/rss+xml" rel="alternate" href="http://www.cnblogs.com/dstang2000/rss"/>
+<link title="RSD" type="application/rsd+xml" rel="EditURI" href="http://www.cnblogs.com/dstang2000/rsd.xml"/> 
+<script src="http://common.cnblogs.com/script/jquery.js" type="text/javascript"></script>  
+<script src="http://www.cnblogs.com/script/common.js" type="text/javascript"></script>
+<script src="http://common.cnblogs.com/script/jquery.json-2.2.min.js" type="text/javascript"></script>
+</head>
+<body>
+    <form name="Form1" method="post" action="20145.html" id="Form1">
+<input type="hidden" name="__VIEWSTATE" id="
+__VIEWSTATE" value="" />
+
+        
+<table width="100%" class="Framework" cellspacing="0" cellpadding="0">
+	<tr>
+		<td>
+			
+<div id="top">
+<h1><a id="Header1_HeaderTitle" class="headermaintitle" href="http://www.cnblogs.com/dstang2000/">拓荒者 dstang2000 <a href="http://www.dstang.com"><font size=-1 color=red>http://www.dstang.com</font></a></h1>
+<div id="subtitle">KISS：Keeping things that work，Improve systems procedures styles，Start things of value，Stop things of no value </div>
+</div>
+<div id="sub">
+<div class="BlogStats">随笔 - 3, 文章 - 1, 评论 - 17, 引用 - 0</div>
+</div>
+
+
+</td>
+	</tr>
+</table>
+<table width="100%" class="Framework" cellspacing="0" cellpadding="0">
+	<tr>
+		<td rowspan="2" class="LeftCell" >
+			<div id="leftmenu">
+				数据加载中……
+			</div>
+		</td>
+		<td class="MainCell">
+			<div id="main">
+				
+					
+<style>
+.entrylistTitle {
+	font-family:verdana;
+	font-size:16px;
+	font-weight:bold;
+	color:Black;
+}
+
+.entrylistDescription {
+	margin-bottom:20px;
+}
+</style>
+<div class="entrylistTitle">Grid及页面控件</div>
+<div class="entrylistDescription"></div>
+
+
+
+				
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td class="FooterCell">
+			
+<p id="footer">
+	Powered by: 
+	<br />
+	
+	<a id="Footer1_Hyperlink3" NAME="Hyperlink1" href="http://www.cnblogs.com/"><font face="Verdana">博客园</font></a>
+	<br />
+	Copyright &copy; 拓荒者
+</p>
+		</td>
+	</tr>
+</table>
+<div id="lefttemp" style="display:none">
+
+					
+<h3>导航</h3>
+<ul>
+	<li>
+		<a id="MyLinks1_HomeLink" href="http://www.cnblogs.com/">博客园</a>
+	<li>
+		<a id="MyLinks1_MyHomeLink" href="http://www.cnblogs.com/dstang2000/">首页</a>
+	<li>
+		<a id="MyLinks1_NewPostLink" href="http://www.cnblogs.com/dstang2000/admin/EditPosts.aspx?opt=1">新随笔</a>
+	<li>
+		<a id="MyLinks1_ContactLink" accesskey="9" href="http://space.cnblogs.com/msg/send/%e6%8b%93%e8%8d%92%e8%80%85">联系</a>
+	<li>
+		<a id="MyLinks1_XMLLink" href="http://www.cnblogs.com/dstang2000/rss"><img src="http://www.cnblogs.com/images/xml.gif" alt="订阅" border="0" /></a><a id="MyLinks1_Syndication" href="http://www.cnblogs.com/dstang2000/rss">订阅</a>
+	<li>
+		<a id="MyLinks1_Admin" href="http://www.cnblogs.com/dstang2000/admin/EditPosts.aspx">管理</a></li>
+
+</ul>
+
+					<table id="Calendar1_entryCal" class="Cal" cellspacing="0" cellpadding="0" title="Calendar" border="0">
+	<tr><td colspan="7" bgcolor="Silver"><table class="CalTitle" cellspacing="0" border="0" width="100%">
+		<tr><td class="CalNextPrev" width="15%"><a href="javascript:__doPostBack('Calendar1$entryCal','V3773')" style="color:Black" title="Go to the previous month">&lt;</a></td><td align="center" width="70%">2010年6月</td><td class="CalNextPrev" align="right" width="15%"><a href="javascript:__doPostBack('Calendar1$entryCal','V3834')" style="color:Black" title="Go to the next month">&gt;</a></td></tr>
+	</table></td></tr><tr><th class="CalDayHeader" align="center" abbr="日" scope="col">日</th><th class="CalDayHeader" align="center" abbr="一" scope="col">一</th><th class="CalDayHeader" align="center" abbr="二" scope="col">二</th><th class="CalDayHeader" align="center" abbr="三" scope="col">三</th><th class="CalDayHeader" align="center" abbr="四" scope="col">四</th><th class="CalDayHeader" align="center" abbr="五" scope="col">五</th><th class="CalDayHeader" align="center" abbr="六" scope="col">六</th></tr><tr><td class="CalOtherMonthDay" align="center" width="14%">30</td><td class="CalOtherMonthDay" align="center" width="14%">31</td><td class="CalTodayDay" align="center" width="14%">1</td><td align="center" width="14%">2</td><td align="center" width="14%">3</td><td align="center" width="14%">4</td><td class="CalWeekendDay" align="center" width="14%">5</td></tr><tr><td class="CalWeekendDay" align="center" width="14%">6</td><td align="center" width="14%">7</td><td align="center" width="14%">8</td><td align="center" width="14%">9</td><td align="center" width="14%">10</td><td align="center" width="14%">11</td><td class="CalWeekendDay" align="center" width="14%">12</td></tr><tr><td class="CalWeekendDay" align="center" width="14%">13</td><td align="center" width="14%">14</td><td align="center" width="14%">15</td><td align="center" width="14%">16</td><td align="center" width="14%">17</td><td align="center" width="14%">18</td><td class="CalWeekendDay" align="center" width="14%">19</td></tr><tr><td class="CalWeekendDay" align="center" width="14%">20</td><td align="center" width="14%">21</td><td align="center" width="14%">22</td><td align="center" width="14%">23</td><td align="center" width="14%">24</td><td align="center" width="14%">25</td><td class="CalWeekendDay" align="center" width="14%">26</td></tr><tr><td class="CalWeekendDay" align="center" width="14%">27</td><td align="center" width="14%">28</td><td align="center" width="14%">29</td><td align="center" width="14%">30</td><td class="CalOtherMonthDay" align="center" width="14%">1</td><td class="CalOtherMonthDay" align="center" width="14%">2</td><td class="CalOtherMonthDay" align="center" width="14%">3</td></tr><tr><td class="CalOtherMonthDay" align="center" width="14%">4</td><td class="CalOtherMonthDay" align="center" width="14%">5</td><td class="CalOtherMonthDay" align="center" width="14%">6</td><td class="CalOtherMonthDay" align="center" width="14%">7</td><td class="CalOtherMonthDay" align="center" width="14%">8</td><td class="CalOtherMonthDay" align="center" width="14%">9</td><td class="CalOtherMonthDay" align="center" width="14%">10</td></tr>
+</table>
+
+					<meta name="vs_showGrid" content="False">
+
+<h3>公告</h3>
+<div id="profile_block"><a href="http://home.cnblogs.com/dstang2000/" target="_blank">我的主页</a>&nbsp; <a href="http://home.cnblogs.com/dstang2000/detail/" target="_blank">个人资料</a><br/><a href="http://home.cnblogs.com/dstang2000/ing/" target="_blank">我的闪存</a>&nbsp; <a href="http://space.cnblogs.com/msg/send/%e6%8b%93%e8%8d%92%e8%80%85" target="_blank">发短消息</a></div>
+
+					
+<script type="text/javascript">
+var blogapp = 'dstang2000';
+</script>
+<div class="mySearch">
+<h3 class="catListTitle">搜索</h3>
+
+<div class="div_my_zzk"><input  type="text" id="q" onkeydown="return zzk_go_enter(event);" class="input_my_zzk"/>&nbsp;<input onclick="zzk_go()" type="button" value="找找看" id="btnZzk" class="btn_my_zzk"/></div>
+
+<div class="div_my_zzk"><input type="text" name="google_q" id="google_q" onkeydown="return google_go_enter(event)" class="input_my_zzk"/>&nbsp;<input onclick="google_go()" type="button" value="谷歌搜索"  class="btn_my_zzk"/></div>
+
+</div>
+<h3>常用链接</h3>
+<ul>
+
+		<li><a id="SingleColumn1_ctl03_rptMainLinks_ctl00_lnkLinkItem" href="http://www.cnblogs.com/dstang2000/MyPosts.html">我的随笔</a></li>
+	
+		<li><a id="SingleColumn1_ctl03_rptMainLinks_ctl01_lnkLinkItem" href="http://home.cnblogs.com/dstang2000/">我的空间</a></li>
+	
+		<li><a id="SingleColumn1_ctl03_rptMainLinks_ctl02_lnkLinkItem" href="http://space.cnblogs.com/msg/recent">我的短信</a></li>
+	
+		<li><a id="SingleColumn1_ctl03_rptMainLinks_ctl03_lnkLinkItem" href="http://www.cnblogs.com/dstang2000/MyComments.html">我的评论</a></li>
+	
+<li><a id="itemListLink" onclick="this.blur();WarpClass('itemListLink', 'itemListLin_con');return false;" href="#">更多链接</a></li>
+</ul>
+<div id="itemListLin_con" style="display:none;">
+<ul>
+		<li><a id="SingleColumn1_ctl03_repeaterLinks_ctl01_lnkLinkItem" title="我发表过评论的随笔" href="http://www.cnblogs.com/dstang2000/OtherPosts.html">我的参与</a></li>
+	
+		<li><a id="SingleColumn1_ctl03_repeaterLinks_ctl02_lnkLinkItem" href="http://www.cnblogs.com/dstang2000/MyNews.html">我的新闻</a></li>
+	
+		<li><a id="SingleColumn1_ctl03_repeaterLinks_ctl03_lnkLinkItem" href="http://www.cnblogs.com/dstang2000/RecentComments.html">最新评论</a></li>
+	
+		<li><a id="SingleColumn1_ctl03_repeaterLinks_ctl04_lnkLinkItem" href="http://www.cnblogs.com/dstang2000/tag/">我的标签</a></li>
+	</ul>
+</div>
+		<h3>随笔分类</h3>
+		
+				<ul>
+			
+				<li><a id="SingleColumn1_Categories_CatList_ctl00_LinkList_ctl01_Link" href="http://www.cnblogs.com/dstang2000/category/20148.html">Csharp语言(1)</a><a id="SingleColumn1_Categories_CatList_ctl00_LinkList_ctl01_RssLink" title="Subscribe to Csharp语言(1)" onclick="open_link('http://www.cnblogs.com/dstang2000/category/20148.html/rss');return false;" href="/dstang2000/favorite/20145.html###">(rss)</a></li>
+			
+				<li><a id="SingleColumn1_Categories_CatList_ctl00_LinkList_ctl02_Link" href="http://www.cnblogs.com/dstang2000/category/20149.html">Web界面</a><a id="SingleColumn1_Categories_CatList_ctl00_LinkList_ctl02_RssLink" title="Subscribe to Web界面" onclick="open_link('http://www.cnblogs.com/dstang2000/category/20149.html/rss');return false;" href="/dstang2000/favorite/20145.html###">(rss)</a></li>
+			
+				<li><a id="SingleColumn1_Categories_CatList_ctl00_LinkList_ctl03_Link" href="http://www.cnblogs.com/dstang2000/category/20186.html">小工具(1)</a><a id="SingleColumn1_Categories_CatList_ctl00_LinkList_ctl03_RssLink" title="Subscribe to 小工具(1)" onclick="open_link('http://www.cnblogs.com/dstang2000/category/20186.html/rss');return false;" href="/dstang2000/favorite/20145.html###">(rss)</a></li>
+			
+				</ul>
+			
+	
+		<h3>随笔档案</h3>
+		
+				<ul>
+			
+				<li><a id="SingleColumn1_Categories_CatList_ctl01_LinkList_ctl01_Link" href="http://www.cnblogs.com/dstang2000/archive/2005/10.html">2005年10月 (1)</a></li>
+			
+				<li><a id="SingleColumn1_Categories_CatList_ctl01_LinkList_ctl02_Link" href="http://www.cnblogs.com/dstang2000/archive/2005/03.html">2005年3月 (2)</a></li>
+			
+				</ul>
+			
+	
+		<h3>文章分类</h3>
+		
+				<ul>
+			
+				<li><a id="SingleColumn1_Categories_CatList_ctl02_LinkList_ctl01_Link" href="http://www.cnblogs.com/dstang2000/category/20147.html">我的工具(1)</a><a id="SingleColumn1_Categories_CatList_ctl02_LinkList_ctl01_RssLink" title="Subscribe to 我的工具(1)" onclick="open_link('http://www.cnblogs.com/dstang2000/category/20147.html/rss');return false;" href="/dstang2000/favorite/20145.html###">(rss)</a></li>
+			
+				<li><a id="SingleColumn1_Categories_CatList_ctl02_LinkList_ctl02_Link" href="http://www.cnblogs.com/dstang2000/category/20146.html">语言及技术探讨</a><a id="SingleColumn1_Categories_CatList_ctl02_LinkList_ctl02_RssLink" title="Subscribe to 语言及技术探讨" onclick="open_link('http://www.cnblogs.com/dstang2000/category/20146.html/rss');return false;" href="/dstang2000/favorite/20145.html###">(rss)</a></li>
+			
+				</ul>
+			
+	
+		<h3>收藏夹</h3>
+		
+				<ul>
+			
+				<li><a id="SingleColumn1_Categories_CatList_ctl03_LinkList_ctl01_Link" href="http://www.cnblogs.com/dstang2000/favorite/20145.html">Grid及页面控件</a><a id="SingleColumn1_Categories_CatList_ctl03_LinkList_ctl01_RssLink" title="Subscribe to Grid及页面控件" onclick="open_link('http://www.cnblogs.com/dstang2000/favorite/20145.html/rss');return false;" href="/dstang2000/favorite/20145.html###">(rss)</a></li>
+			
+				<li><a id="SingleColumn1_Categories_CatList_ctl03_LinkList_ctl02_Link" href="http://www.cnblogs.com/dstang2000/favorite/20144.html">数据库</a><a id="SingleColumn1_Categories_CatList_ctl03_LinkList_ctl02_RssLink" title="Subscribe to 数据库" onclick="open_link('http://www.cnblogs.com/dstang2000/favorite/20144.html/rss');return false;" href="/dstang2000/favorite/20145.html###">(rss)</a></li>
+			
+				</ul>
+			
+	
+		<h3>我自己的网站</h3>
+		
+				<ul>
+			
+				<li><a id="SingleColumn1_Categories_CatList_ctl04_LinkList_ctl01_Link" href="http://cf.pku.cn/tds">cf.pku.cn/tds</a></li>
+			<li style='margin-top:2px;'>我的教学网站</li>
+				<li><a id="SingleColumn1_Categories_CatList_ctl04_LinkList_ctl02_Link" href="http://www.dstang.com">www.dstang.com</a></li>
+			<li style='margin-top:2px;'>唐大仕的出版物</li>
+				<li><a id="SingleColumn1_Categories_CatList_ctl04_LinkList_ctl03_Link" href="http://www.SurveyStar.net">www.SurveyStar.net</a></li>
+			<li style='margin-top:2px;'>市场调查Web/CATI问卷系统</li>
+				<li><a id="SingleColumn1_Categories_CatList_ctl04_LinkList_ctl04_Link" href="http://appnews.qq.com/cgi-bin/news_qq_search?city=北京">今日天气</a></li>
+			<li style='margin-top:2px;'></li>
+				</ul>
+			
+	
+
+<h3 class="catListTitle">最新评论
+	<a id="SingleColumn1__6326ea_RSSHyperlink1" href="http://www.cnblogs.com/dstang2000/CommentsRSS.aspx"><img src="/images/xml.gif" border="0" /></a></h3>
+<div class="RecentComment" id="RecentComments">
+	
+			<ul>
+		
+			<li style="word-break:break-all">
+				<a id="SingleColumn1__6326ea_CommentList_ctl01_Hyperlink1" href="http://www.cnblogs.com/dstang2000/archive/2005/03/06/113761.html#1346242">1. re: 小工具RssInIE： 在IE中点右键，可以直接查看RSS</a>
+			</li>
+			<li style="word-break:break-all">
+				的确很方便哦
+			</li>
+			<li style="text-align:right;margin-right:4px">
+				--代码乱了</li>
+		
+			<li style="word-break:break-all">
+				<a id="SingleColumn1__6326ea_CommentList_ctl02_Hyperlink1" href="http://www.cnblogs.com/dstang2000/archive/2005/10/08/250188.html#962551">2. re: 使用 NDoc 对 asp.net (Web) 项目产生文档的方法</a>
+			</li>
+			<li style="word-break:break-all">
+				看了<br>有那么点道理<br>丹阳人<br>www.PouPo.Cn
+			</li>
+			<li style="text-align:right;margin-right:4px">
+				--拓荒 </li>
+		
+			<li style="word-break:break-all">
+				<a id="SingleColumn1__6326ea_CommentList_ctl03_Hyperlink1" href="http://www.cnblogs.com/dstang2000/archive/2005/10/08/250188.html#698128">3. re: 使用 NDoc 对 asp.net (Web) 项目产生文档的方法</a>
+			</li>
+			<li style="word-break:break-all">
+				用不了
+			</li>
+			<li style="text-align:right;margin-right:4px">
+				--yunhuasheng</li>
+		
+			<li style="word-break:break-all">
+				<a id="SingleColumn1__6326ea_CommentList_ctl04_Hyperlink1" href="http://www.cnblogs.com/dstang2000/archive/2005/10/08/250188.html#496518">4. re: 使用 NDoc 对 asp.net (Web) 项目产生文档的方法</a>
+			</li>
+			<li style="word-break:break-all">
+				谢谢你的建议！我会考虑修复的。<br>关于第二点不太清楚，能否举几个例子？在什么场合使用了中文文件名、路径？类型的名称、成员的名称？
+			</li>
+			<li style="text-align:right;margin-right:4px">
+				--破宝_</li>
+		
+			<li style="word-break:break-all">
+				<a id="SingleColumn1__6326ea_CommentList_ctl05_Hyperlink1" href="http://dstang2000.cnblogs.com/articles/113796.html#449391">5. re: 我的小工具RssInIE： 在IE中点右键，可以直接查看RSS </a>
+			</li>
+			<li style="word-break:break-all">
+				呵呵，写得不错！
+			</li>
+			<li style="text-align:right;margin-right:4px">
+				--移民</li>
+		
+			</ul>
+		
+</div>
+
+<h3 class="catListTitle">阅读排行榜</h3>
+<div class="RecentComment" id="TopViewPosts"> 
+	
+			<ul style="word-break:break-all">
+		
+			<li>
+				<a id="SingleColumn1_ctl07_TopList_ctl01_Hyperlink1" href="http://www.cnblogs.com/dstang2000/archive/2005/03/05/113513.html">1. 分不清正数负数，是我错了，还是VS.NET错了(2184)</a>
+			</li>
+		
+			<li>
+				<a id="SingleColumn1_ctl07_TopList_ctl02_Hyperlink1" href="http://www.cnblogs.com/dstang2000/archive/2005/03/06/113761.html">2. 小工具RssInIE： 在IE中点右键，可以直接查看RSS(1338)</a>
+			</li>
+		
+			<li>
+				<a id="SingleColumn1_ctl07_TopList_ctl03_Hyperlink1" href="http://www.cnblogs.com/dstang2000/archive/2005/10/08/250188.html">3. 使用 NDoc 对 asp.net (Web) 项目产生文档的方法(981)</a>
+			</li>
+		
+			</ul>
+		
+</div>
+
+<h3 class="catListTitle">评论排行榜</h3>
+<div class="RecentComment" id="TopCommentsPosts">
+	
+			<ul style="word-break:break-all">
+		
+			<li>
+				<a id="SingleColumn1_ctl08_TopList_ctl01_Hyperlink1" href="http://www.cnblogs.com/dstang2000/archive/2005/03/06/113761.html">1. 小工具RssInIE： 在IE中点右键，可以直接查看RSS(6)</a>
+			</li>
+		
+			<li>
+				<a id="SingleColumn1_ctl08_TopList_ctl02_Hyperlink1" href="http://www.cnblogs.com/dstang2000/archive/2005/03/05/113513.html">2. 分不清正数负数，是我错了，还是VS.NET错了(5)</a>
+			</li>
+		
+			<li>
+				<a id="SingleColumn1_ctl08_TopList_ctl03_Hyperlink1" href="http://www.cnblogs.com/dstang2000/archive/2005/10/08/250188.html">3. 使用 NDoc 对 asp.net (Web) 项目产生文档的方法(3)</a>
+			</li>
+		
+			</ul>
+		
+</div>
+
+</div>
+
+    </form>
+	<script type="text/javascript" src="http://common.cnblogs.com/script/shCore.js"></script>
+	<script type="text/javascript" src="http://common.cnblogs.com/script/shLanguage.js"></script>
+    <script type="text/javascript">
+        try {
+            SyntaxHighlighter.config.clipboardSwf = 'http://common.cnblogs.com/flash/clipboard.swf';
+            SyntaxHighlighter.all();
+        } catch (e) { }
+    </script>  
+    <script type="text/javascript" src="/script/ShowHidden.js"></script>
+    <script type="text/javascript">
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+    <script type="text/javascript">
+        try {
+            var pageTracker = _gat._getTracker("UA-476124-1");
+            pageTracker._trackPageview();
+        } catch (err) { }</script>
+</body>
+</html>

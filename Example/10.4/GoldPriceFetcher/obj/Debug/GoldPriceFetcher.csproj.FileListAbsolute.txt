@@ -1,0 +1,10 @@
+D:\tmp\GoldPriceFetcher\obj\Debug\ResolveAssemblyReference.cache
+D:\tmp\GoldPriceFetcher\obj\Debug\GoldPriceFetcher.Form1.resources
+D:\tmp\GoldPriceFetcher\obj\Debug\GoldPriceFetcher.Properties.Resources.resources
+D:\tmp\GoldPriceFetcher\obj\Debug\GoldPriceFetcher.csproj.GenerateResource.Cache
+D:\tmp\GoldPriceFetcher\bin\Debug\GoldPriceFetcher.exe
+D:\tmp\GoldPriceFetcher\bin\Debug\GoldPriceFetcher.pdb
+D:\tmp\GoldPriceFetcher\obj\Debug\GoldPriceFetcher.exe
+D:\tmp\GoldPriceFetcher\obj\Debug\GoldPriceFetcher.pdb
+C:\csharp课程\09 网络信息获取\GoldPriceFetcher\obj\Debug\GoldPriceFetcher.exe
+C:\csharp课程\09 网络信息获取\GoldPriceFetcher\obj\Debug\GoldPriceFetcher.pdb

@@ -1,0 +1,7 @@
+D:\csharp课程\09 网络信息获取\YahooWeather\obj\Debug\YahooWeather.exe
+D:\csharp课程\09 网络信息获取\YahooWeather\obj\Debug\YahooWeather.pdb
+D:\csharp课程\09 网络信息获取\YahooWeather\bin\Debug\YahooWeather.exe
+D:\csharp课程\09 网络信息获取\YahooWeather\bin\Debug\YahooWeather.pdb
+D:\csharp课程\09 网络信息获取\YahooWeather\obj\Debug\YahooWeather.csprojResolveAssemblyReference.cache
+D:\csharp课程\09 网络信息获取\YahooWeather\obj\Debug\YahooWeather.Form1.resources
+D:\csharp课程\09 网络信息获取\YahooWeather\obj\Debug\YahooWeather.csproj.GenerateResource.Cache

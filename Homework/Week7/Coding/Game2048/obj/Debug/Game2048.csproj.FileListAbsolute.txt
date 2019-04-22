@@ -6,5 +6,12 @@ c:\users\tds\documents\visual studio 2013\Projects\Game2048\Game2048\bin\Debug\G
 c:\users\tds\documents\visual studio 2013\Projects\Game2048\Game2048\bin\Debug\Game2048.pdb
 c:\users\tds\documents\visual studio 2013\Projects\Game2048\Game2048\obj\Debug\Game2048.exe
 c:\users\tds\documents\visual studio 2013\Projects\Game2048\Game2048\obj\Debug\Game2048.pdb
-D:\软件\GitHub\MOOC-CSharp-Programming-Language\Homework\Week7\Coding\Game2048\obj\Debug\Game2048.exe
-D:\软件\GitHub\MOOC-CSharp-Programming-Language\Homework\Week7\Coding\Game2048\obj\Debug\Game2048.pdb
+D:\visual studio2017\workspace\Game2048\Game2048\bin\Debug\Game2048.exe
+D:\visual studio2017\workspace\Game2048\Game2048\bin\Debug\Game2048.pdb
+D:\visual studio2017\workspace\Game2048\Game2048\obj\Debug\Game2048.csprojAssemblyReference.cache
+D:\visual studio2017\workspace\Game2048\Game2048\obj\Debug\Game2048.Form1.resources
+D:\visual studio2017\workspace\Game2048\Game2048\obj\Debug\Game2048.Properties.Resources.resources
+D:\visual studio2017\workspace\Game2048\Game2048\obj\Debug\Game2048.csproj.GenerateResource.cache
+D:\visual studio2017\workspace\Game2048\Game2048\obj\Debug\Game2048.csproj.CoreCompileInputs.cache
+D:\visual studio2017\workspace\Game2048\Game2048\obj\Debug\Game2048.exe
+D:\visual studio2017\workspace\Game2048\Game2048\obj\Debug\Game2048.pdb

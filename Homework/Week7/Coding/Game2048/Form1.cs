@@ -50,7 +50,7 @@ namespace Game2048
             while (n1 == n2);
             board[n1 / N, n1 % N] = rnd.Next(2) * 2 + 2; //设为2或4
             board[n2 / N, n2 % N] = rnd.Next(2) * 2 + 2;
-            
+
             InitialUI();
         }
 
@@ -68,7 +68,7 @@ namespace Game2048
         {
             btns = new Button[N * N];
 
-            int x0 = 5, y0 = 5, w = 60, d = w+5;
+            int x0 = 5, y0 = 5, w = 60, d = w + 5;
 
             for (int i = 0; i < btns.Length; i++)
             {
@@ -127,6 +127,10 @@ namespace Game2048
             {
                 return str2[k];
             }
+            else if (gameMode == 3)
+            {
+                return str3[k];
+            }
             return "";
         }
 
@@ -136,7 +140,7 @@ namespace Game2048
         {
             if (n == 0) return Color.FromArgb(100, 200, 200, 200);
 
-            int tmp = 230-(int)Math.Log(n, 2) * 20;
+            int tmp = 230 - (int)Math.Log(n, 2) * 20;
             return Color.FromArgb(250, tmp, tmp, 0);
         }
 
@@ -359,7 +363,7 @@ namespace Game2048
             return isMoved;
         }
 
- 
+
 
         private bool downMove()
         {
@@ -434,7 +438,7 @@ namespace Game2048
             {
                 for (int j = 0; j < board.GetLength(1); j++)
                 {
-                    if (board[i, j] > 0) nCount++;                        
+                    if (board[i, j] > 0) nCount++;
                 }
             }
             if (nCount != N * N) return false;
@@ -452,6 +456,46 @@ namespace Game2048
             return true;
         }
 
+        private void radioButton1_CheckedChanged(object sender, EventArgs e)
+        {
+            gameMode = 1;
+        }
+
+        private void radioButton2_CheckedChanged(object sender, EventArgs e)
+        {
+            gameMode = 2;
+        }
+
+        private void radioButton3_CheckedChanged(object sender, EventArgs e)
+        {
+            gameMode = 3;
+        }
+
+        private void listBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void benJudge_Click(object sender, EventArgs e)
+        {
+            int i = 0;
+            if (IsGameOver()) {
+                i++;
+                score = i;
+                string disp = "当前分数为" + score;
+            }
+        }
+        private void frm_test_show_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if ((Keys)e.KeyChar == Keys.Up)
+            {
+                button1_Click(sender, e);
+            }
+        }
+        private void button1_Click(object sender, EventArgs e)
+        {
+         
+        }
     }
 
 }

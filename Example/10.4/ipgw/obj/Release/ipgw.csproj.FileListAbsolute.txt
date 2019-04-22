@@ -1,0 +1,8 @@
+E:\Projects\C#\ipgw\ipgw\bin\Release\ipgw.exe
+E:\Projects\C#\ipgw\ipgw\bin\Release\ipgw.pdb
+E:\Projects\C#\ipgw\ipgw\obj\Release\ipgw.MainForm.resources
+E:\Projects\C#\ipgw\ipgw\obj\Release\ipgw.Properties.Resources.resources
+E:\Projects\C#\ipgw\ipgw\obj\Release\ipgw.csproj.GenerateResource.Cache
+E:\Projects\C#\ipgw\ipgw\obj\Release\ipgw.exe
+E:\Projects\C#\ipgw\ipgw\obj\Release\ipgw.pdb
+E:\Projects\C#\ipgw\ipgw\obj\Release\ipgw.csprojResolveAssemblyReference.cache
