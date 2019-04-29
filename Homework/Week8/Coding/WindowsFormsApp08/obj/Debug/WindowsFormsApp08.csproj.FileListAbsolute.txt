@@ -1,0 +1,10 @@
+E:\zuoyehupin\第八讲\WindowsFormsApp08\WindowsFormsApp08\bin\Debug\WindowsFormsApp08.exe.config
+E:\zuoyehupin\第八讲\WindowsFormsApp08\WindowsFormsApp08\bin\Debug\WindowsFormsApp08.exe
+E:\zuoyehupin\第八讲\WindowsFormsApp08\WindowsFormsApp08\bin\Debug\WindowsFormsApp08.pdb
+E:\zuoyehupin\第八讲\WindowsFormsApp08\WindowsFormsApp08\obj\Debug\WindowsFormsApp08.csprojAssemblyReference.cache
+E:\zuoyehupin\第八讲\WindowsFormsApp08\WindowsFormsApp08\obj\Debug\WindowsFormsApp08.Form1.resources
+E:\zuoyehupin\第八讲\WindowsFormsApp08\WindowsFormsApp08\obj\Debug\WindowsFormsApp08.Properties.Resources.resources
+E:\zuoyehupin\第八讲\WindowsFormsApp08\WindowsFormsApp08\obj\Debug\WindowsFormsApp08.csproj.GenerateResource.cache
+E:\zuoyehupin\第八讲\WindowsFormsApp08\WindowsFormsApp08\obj\Debug\WindowsFormsApp08.csproj.CoreCompileInputs.cache
+E:\zuoyehupin\第八讲\WindowsFormsApp08\WindowsFormsApp08\obj\Debug\WindowsFormsApp08.exe
+E:\zuoyehupin\第八讲\WindowsFormsApp08\WindowsFormsApp08\obj\Debug\WindowsFormsApp08.pdb

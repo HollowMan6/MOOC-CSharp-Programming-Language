@@ -1,0 +1,9 @@
+c:\users\tds\documents\visual studio 2013\Projects\AsyncUseHttpClient\AsyncUseHttpClient\bin\Debug\AsyncUseHttpClient.exe.config
+c:\users\tds\documents\visual studio 2013\Projects\AsyncUseHttpClient\AsyncUseHttpClient\bin\Debug\AsyncUseHttpClient.exe
+c:\users\tds\documents\visual studio 2013\Projects\AsyncUseHttpClient\AsyncUseHttpClient\bin\Debug\AsyncUseHttpClient.pdb
+c:\users\tds\documents\visual studio 2013\Projects\AsyncUseHttpClient\AsyncUseHttpClient\obj\Debug\AsyncUseHttpClient.csprojResolveAssemblyReference.cache
+c:\users\tds\documents\visual studio 2013\Projects\AsyncUseHttpClient\AsyncUseHttpClient\obj\Debug\AsyncUseHttpClient.Form1.resources
+c:\users\tds\documents\visual studio 2013\Projects\AsyncUseHttpClient\AsyncUseHttpClient\obj\Debug\AsyncUseHttpClient.Properties.Resources.resources
+c:\users\tds\documents\visual studio 2013\Projects\AsyncUseHttpClient\AsyncUseHttpClient\obj\Debug\AsyncUseHttpClient.csproj.GenerateResource.Cache
+c:\users\tds\documents\visual studio 2013\Projects\AsyncUseHttpClient\AsyncUseHttpClient\obj\Debug\AsyncUseHttpClient.exe
+c:\users\tds\documents\visual studio 2013\Projects\AsyncUseHttpClient\AsyncUseHttpClient\obj\Debug\AsyncUseHttpClient.pdb
