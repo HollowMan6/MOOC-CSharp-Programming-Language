@@ -1,0 +1,27 @@
+D:\tmp\CrudDemo\obj\Debug\ResolveAssemblyReference.cache
+D:\tmp\CrudDemo\obj\Debug\CrudDemo.FormLogin.resources
+D:\tmp\CrudDemo\obj\Debug\CrudDemo.FormMain.resources
+D:\tmp\CrudDemo\obj\Debug\CrudDemo.Properties.Resources.resources
+D:\tmp\CrudDemo\obj\Debug\CrudDemo.csproj.GenerateResource.Cache
+D:\tmp\CrudDemo\bin\Debug\CrudDemo.exe.config
+D:\tmp\CrudDemo\bin\Debug\CrudDemo.exe
+D:\tmp\CrudDemo\bin\Debug\CrudDemo.pdb
+D:\tmp\CrudDemo\obj\Debug\CrudDemo.exe
+D:\tmp\CrudDemo\obj\Debug\CrudDemo.pdb
+D:\tmp\CrudDemo\obj\Debug\CrudDemo.FormBookQuery.resources
+D:\tmp\CrudDemo\obj\Debug\CrudDemo.FormBookInput.resources
+C:\csharp课程\13 数据库访问ADO.NET\CrudDemo\bin\Debug\CrudDemo.exe.config
+C:\csharp课程\13 数据库访问ADO.NET\CrudDemo\obj\Debug\CrudDemo.exe
+C:\csharp课程\13 数据库访问ADO.NET\CrudDemo\obj\Debug\CrudDemo.pdb
+D:\csharp课程\13 数据库访问ADO.NET\CrudDemo\bin\Debug\CrudDemo.exe.config
+D:\csharp课程\13 数据库访问ADO.NET\CrudDemo\obj\Debug\CrudDemo.exe
+D:\csharp课程\13 数据库访问ADO.NET\CrudDemo\obj\Debug\CrudDemo.pdb
+D:\csharp课程\13 数据库访问ADO.NET\CrudDemo\bin\Debug\CrudDemo.exe
+D:\csharp课程\13 数据库访问ADO.NET\CrudDemo\bin\Debug\CrudDemo.pdb
+D:\csharp课程\13 数据库访问ADO.NET\CrudDemo\obj\Debug\CrudDemo.csprojResolveAssemblyReference.cache
+D:\csharp课程\13 数据库访问ADO.NET\CrudDemo\obj\Debug\CrudDemo.FormBookInput.resources
+D:\csharp课程\13 数据库访问ADO.NET\CrudDemo\obj\Debug\CrudDemo.FormBookQuery.resources
+D:\csharp课程\13 数据库访问ADO.NET\CrudDemo\obj\Debug\CrudDemo.FormLogin.resources
+D:\csharp课程\13 数据库访问ADO.NET\CrudDemo\obj\Debug\CrudDemo.FormMain.resources
+D:\csharp课程\13 数据库访问ADO.NET\CrudDemo\obj\Debug\CrudDemo.Properties.Resources.resources
+D:\csharp课程\13 数据库访问ADO.NET\CrudDemo\obj\Debug\CrudDemo.csproj.GenerateResource.Cache

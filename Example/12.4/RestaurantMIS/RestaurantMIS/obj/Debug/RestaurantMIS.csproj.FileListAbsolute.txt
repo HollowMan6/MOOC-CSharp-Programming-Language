@@ -1,0 +1,15 @@
+D:\csharp课程\13 数据库访问ADO.NET\RestaurantMIS\RestaurantMIS\bin\Debug\RestaurantMIS.exe.config
+D:\csharp课程\13 数据库访问ADO.NET\RestaurantMIS\RestaurantMIS\bin\Debug\RestaurantMIS.exe
+D:\csharp课程\13 数据库访问ADO.NET\RestaurantMIS\RestaurantMIS\bin\Debug\RestaurantMIS.pdb
+D:\csharp课程\13 数据库访问ADO.NET\RestaurantMIS\RestaurantMIS\bin\Debug\RestaurantMIS.BLL.dll
+D:\csharp课程\13 数据库访问ADO.NET\RestaurantMIS\RestaurantMIS\bin\Debug\RestaurantMIS.Model.dll
+D:\csharp课程\13 数据库访问ADO.NET\RestaurantMIS\RestaurantMIS\bin\Debug\RestaurantMIS.DAL.dll
+D:\csharp课程\13 数据库访问ADO.NET\RestaurantMIS\RestaurantMIS\bin\Debug\RestaurantMIS.BLL.pdb
+D:\csharp课程\13 数据库访问ADO.NET\RestaurantMIS\RestaurantMIS\bin\Debug\RestaurantMIS.Model.pdb
+D:\csharp课程\13 数据库访问ADO.NET\RestaurantMIS\RestaurantMIS\bin\Debug\RestaurantMIS.DAL.pdb
+D:\csharp课程\13 数据库访问ADO.NET\RestaurantMIS\RestaurantMIS\obj\Debug\RestaurantMIS.csprojResolveAssemblyReference.cache
+D:\csharp课程\13 数据库访问ADO.NET\RestaurantMIS\RestaurantMIS\obj\Debug\RestaurantMIS.frmMain.resources
+D:\csharp课程\13 数据库访问ADO.NET\RestaurantMIS\RestaurantMIS\obj\Debug\RestaurantMIS.Properties.Resources.resources
+D:\csharp课程\13 数据库访问ADO.NET\RestaurantMIS\RestaurantMIS\obj\Debug\RestaurantMIS.csproj.GenerateResource.Cache
+D:\csharp课程\13 数据库访问ADO.NET\RestaurantMIS\RestaurantMIS\obj\Debug\RestaurantMIS.exe
+D:\csharp课程\13 数据库访问ADO.NET\RestaurantMIS\RestaurantMIS\obj\Debug\RestaurantMIS.pdb

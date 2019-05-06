@@ -1,0 +1,5 @@
+D:\csharp课程\13 数据库访问ADO.NET\RestaurantMIS\RestaurantMIS.Model\bin\Debug\RestaurantMIS.Model.dll
+D:\csharp课程\13 数据库访问ADO.NET\RestaurantMIS\RestaurantMIS.Model\bin\Debug\RestaurantMIS.Model.pdb
+D:\csharp课程\13 数据库访问ADO.NET\RestaurantMIS\RestaurantMIS.Model\obj\Debug\RestaurantMIS.Model.csprojResolveAssemblyReference.cache
+D:\csharp课程\13 数据库访问ADO.NET\RestaurantMIS\RestaurantMIS.Model\obj\Debug\RestaurantMIS.Model.dll
+D:\csharp课程\13 数据库访问ADO.NET\RestaurantMIS\RestaurantMIS.Model\obj\Debug\RestaurantMIS.Model.pdb

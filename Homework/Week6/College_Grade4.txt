@@ -130,7 +130,7 @@
 	altitude	n.高，高度；高处	5Altitju:d
 	altogether	ad.完全；总而言之	C:ltE5geTE
 	always	ad.总是，一直；永远	5C:lweiz7 5R:lwEz
-133	amaze	vt.使惊奇，使惊愕	E5meiz
+	amaze	vt.使惊奇，使惊愕	E5meiz
 	ambition	n.雄心，抱负，野心	Am5biFEn
 	ambulance	n.救护车；野战医院	5AmbjulEns
 	America	n.美洲；美国	E5merikE
