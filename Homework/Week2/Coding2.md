@@ -15,3 +15,4 @@
 其他扩充功能（选做），如难题的判断，得分的计算等等。
 
 界面可以参考(仅供参考，可以自由发挥)
+![](https://edu-image.nosdn.127.net/25848F6027BB728CE21704E2F2C72564.png?imageView&thumbnail=890x0&quality=100)

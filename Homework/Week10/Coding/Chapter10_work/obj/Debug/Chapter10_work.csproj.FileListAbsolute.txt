@@ -1,0 +1,7 @@
+C:\Users\17853\Desktop\C#(MOOC)\C#(MOOC)实验\Chapter10_work\Chapter10_work\bin\Debug\Chapter10_work.exe.config
+C:\Users\17853\Desktop\C#(MOOC)\C#(MOOC)实验\Chapter10_work\Chapter10_work\bin\Debug\Chapter10_work.exe
+C:\Users\17853\Desktop\C#(MOOC)\C#(MOOC)实验\Chapter10_work\Chapter10_work\bin\Debug\Chapter10_work.pdb
+C:\Users\17853\Desktop\C#(MOOC)\C#(MOOC)实验\Chapter10_work\Chapter10_work\obj\Debug\Chapter10_work.csprojAssemblyReference.cache
+C:\Users\17853\Desktop\C#(MOOC)\C#(MOOC)实验\Chapter10_work\Chapter10_work\obj\Debug\Chapter10_work.csproj.CoreCompileInputs.cache
+C:\Users\17853\Desktop\C#(MOOC)\C#(MOOC)实验\Chapter10_work\Chapter10_work\obj\Debug\Chapter10_work.exe
+C:\Users\17853\Desktop\C#(MOOC)\C#(MOOC)实验\Chapter10_work\Chapter10_work\obj\Debug\Chapter10_work.pdb
