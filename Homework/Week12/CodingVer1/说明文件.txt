@@ -1,0 +1,18 @@
+背单词程序
+
+1、读取英语四级单词Excel2016文件的内容读出来放到泛型集合（ List<string> listEnToCnLines）中；
+
+2、用string的Split(' ')分割得到的string[]的第0个即为英语单词，第1个即为汉语意思，放到泛型词典（ Dictionary<string, string> dicEnToCn）与集合（List<string> listEnglish）中（词典便于查找，利于程序将来扩展）；
+
+3、使用大仕老师最喜欢的Timer,每隔一定时间，让英语单词及汉语意思显示到屏幕上（可以用两个Textbox控件）；
+
+4、用一个下标变量（int dictIndex），每次dictIndex++，实现每次显示的单词不同；
+
+
+5、让窗体的TopMost属性置为True，这个窗体就不会被其他窗口遮盖，可以随时随地背单词；
+
+
+6、设置多个按钮，使用户可以调整背单词的速度、保存、读取进度，可以暂停、继续、停止等；
+
+
+7、随机出单词；

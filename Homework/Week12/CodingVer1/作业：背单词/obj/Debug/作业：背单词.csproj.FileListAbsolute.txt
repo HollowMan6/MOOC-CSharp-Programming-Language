@@ -1,0 +1,36 @@
+D:\360安全浏览器下载\作业：背单词\作业：背单词\bin\Debug\作业：背单词.exe.config
+D:\360安全浏览器下载\作业：背单词\作业：背单词\bin\Debug\作业：背单词.exe
+D:\360安全浏览器下载\作业：背单词\作业：背单词\bin\Debug\作业：背单词.pdb
+D:\360安全浏览器下载\作业：背单词\作业：背单词\obj\Debug\作业：背单词.csprojResolveAssemblyReference.cache
+D:\360安全浏览器下载\作业：背单词\作业：背单词\obj\Debug\作业_背单词.ReciteWordsForm.resources
+D:\360安全浏览器下载\作业：背单词\作业：背单词\obj\Debug\作业_背单词.Properties.Resources.resources
+D:\360安全浏览器下载\作业：背单词\作业：背单词\obj\Debug\作业：背单词.csproj.GenerateResource.Cache
+D:\360安全浏览器下载\作业：背单词\作业：背单词\obj\Debug\作业：背单词.exe
+D:\360安全浏览器下载\作业：背单词\作业：背单词\obj\Debug\作业：背单词.pdb
+D:\C#\C# 唐大仕讲义\作业：背单词\作业：背单词\bin\Debug\作业：背单词.exe.config
+D:\C#\C# 唐大仕讲义\作业：背单词\作业：背单词\obj\Debug\作业：背单词.exe
+D:\C#\C# 唐大仕讲义\作业：背单词\作业：背单词\obj\Debug\作业：背单词.pdb
+D:\C#\C# 唐大仕讲义\作业：背单词\作业：背单词\bin\Debug\作业：背单词.exe
+D:\C#\C# 唐大仕讲义\作业：背单词\作业：背单词\bin\Debug\作业：背单词.pdb
+D:\C#\C# 唐大仕讲义\作业：背单词\作业：背单词\obj\Debug\作业：背单词.csprojResolveAssemblyReference.cache
+D:\C#\C# 唐大仕讲义\作业：背单词\作业：背单词\obj\Debug\作业_背单词.ReciteWordsForm.resources
+D:\C#\C# 唐大仕讲义\作业：背单词\作业：背单词\obj\Debug\作业_背单词.Properties.Resources.resources
+D:\C#\C# 唐大仕讲义\作业：背单词\作业：背单词\obj\Debug\作业：背单词.csproj.GenerateResource.Cache
+D:\C#\C# 唐大仕讲义\作业\作业：背单词\作业：背单词\bin\Debug\作业：背单词.exe.config
+D:\C#\C# 唐大仕讲义\作业\作业：背单词\作业：背单词\obj\Debug\作业：背单词.exe
+D:\C#\C# 唐大仕讲义\作业\作业：背单词\作业：背单词\obj\Debug\作业：背单词.pdb
+D:\C#\C# 唐大仕讲义\作业\作业：背单词\作业：背单词\bin\Debug\作业：背单词.exe
+D:\C#\C# 唐大仕讲义\作业\作业：背单词\作业：背单词\bin\Debug\作业：背单词.pdb
+D:\C#\C# 唐大仕讲义\作业\作业：背单词\作业：背单词\obj\Debug\作业：背单词.csprojResolveAssemblyReference.cache
+D:\C#\C# 唐大仕讲义\作业\作业：背单词\作业：背单词\obj\Debug\作业_背单词.ReciteWordsForm.resources
+D:\C#\C# 唐大仕讲义\作业\作业：背单词\作业：背单词\obj\Debug\作业_背单词.Properties.Resources.resources
+D:\C#\C# 唐大仕讲义\作业\作业：背单词\作业：背单词\obj\Debug\作业：背单词.csproj.GenerateResource.Cache
+D:\C#\C# 唐大仕讲义\作业\作业：背单词（数据库系统）\作业：背单词\bin\Debug\作业：背单词.exe.config
+D:\C#\C# 唐大仕讲义\作业\作业：背单词（数据库系统）\作业：背单词\obj\Debug\作业：背单词.exe
+D:\C#\C# 唐大仕讲义\作业\作业：背单词（数据库系统）\作业：背单词\obj\Debug\作业：背单词.pdb
+D:\C#\C# 唐大仕讲义\作业\作业：背单词（数据库系统）\作业：背单词\bin\Debug\作业：背单词.exe
+D:\C#\C# 唐大仕讲义\作业\作业：背单词（数据库系统）\作业：背单词\bin\Debug\作业：背单词.pdb
+D:\C#\C# 唐大仕讲义\作业\作业：背单词（数据库系统）\作业：背单词\obj\Debug\作业：背单词.csprojResolveAssemblyReference.cache
+D:\C#\C# 唐大仕讲义\作业\作业：背单词（数据库系统）\作业：背单词\obj\Debug\作业_背单词.ReciteWordsForm.resources
+D:\C#\C# 唐大仕讲义\作业\作业：背单词（数据库系统）\作业：背单词\obj\Debug\作业_背单词.Properties.Resources.resources
+D:\C#\C# 唐大仕讲义\作业\作业：背单词（数据库系统）\作业：背单词\obj\Debug\作业：背单词.csproj.GenerateResource.Cache

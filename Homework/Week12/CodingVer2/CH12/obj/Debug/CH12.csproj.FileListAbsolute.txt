@@ -1,0 +1,17 @@
+C:\Users\WangCF\Desktop\temp\CH12\CH12\bin\Debug\CH12.exe.config
+C:\Users\WangCF\Desktop\temp\CH12\CH12\bin\Debug\CH12.exe
+C:\Users\WangCF\Desktop\temp\CH12\CH12\bin\Debug\CH12.pdb
+C:\Users\WangCF\Desktop\temp\CH12\CH12\bin\Debug\EntityFramework.dll
+C:\Users\WangCF\Desktop\temp\CH12\CH12\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\WangCF\Desktop\temp\CH12\CH12\bin\Debug\System.Data.SQLite.dll
+C:\Users\WangCF\Desktop\temp\CH12\CH12\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\WangCF\Desktop\temp\CH12\CH12\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\WangCF\Desktop\temp\CH12\CH12\bin\Debug\EntityFramework.xml
+C:\Users\WangCF\Desktop\temp\CH12\CH12\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\WangCF\Desktop\temp\CH12\CH12\bin\Debug\System.Data.SQLite.xml
+C:\Users\WangCF\Desktop\temp\CH12\CH12\obj\Debug\CH12.csprojResolveAssemblyReference.cache
+C:\Users\WangCF\Desktop\temp\CH12\CH12\obj\Debug\CH12.Form1.resources
+C:\Users\WangCF\Desktop\temp\CH12\CH12\obj\Debug\CH12.Properties.Resources.resources
+C:\Users\WangCF\Desktop\temp\CH12\CH12\obj\Debug\CH12.csproj.GenerateResource.Cache
+C:\Users\WangCF\Desktop\temp\CH12\CH12\obj\Debug\CH12.exe
+C:\Users\WangCF\Desktop\temp\CH12\CH12\obj\Debug\CH12.pdb
