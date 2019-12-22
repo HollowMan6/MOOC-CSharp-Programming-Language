@@ -1,8 +1,0 @@
-obj\Debug\ResolveAssemblyReference.cache
-obj\Debug\LuminousClock.frmOptions.resources
-obj\Debug\LuminousClock.csproj.GenerateResource.Cache
-bin\Debug\LuminousClock.exe
-bin\Debug\LuminousClock.pdb
-obj\Debug\LuminousClock.ScreenSaverClock.resources
-obj\Debug\LuminousClock.exe
-obj\Debug\LuminousClock.pdb

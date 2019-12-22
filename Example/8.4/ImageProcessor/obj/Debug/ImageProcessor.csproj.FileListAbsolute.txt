@@ -1,8 +1,0 @@
-D:\csharp课程\12 绘图与图像\ImageProcess\ImageProcessor\obj\Debug\ImageProcessor.exe
-D:\csharp课程\12 绘图与图像\ImageProcess\ImageProcessor\obj\Debug\ImageProcessor.pdb
-D:\csharp课程\12 绘图与图像\ImageProcess\ImageProcessor\bin\Debug\ImageProcessor.exe
-D:\csharp课程\12 绘图与图像\ImageProcess\ImageProcessor\bin\Debug\ImageProcessor.pdb
-D:\csharp课程\12 绘图与图像\ImageProcess\ImageProcessor\obj\Debug\ImageProcessor.csprojResolveAssemblyReference.cache
-D:\csharp课程\12 绘图与图像\ImageProcess\ImageProcessor\obj\Debug\ImageProcessor.Form1.resources
-D:\csharp课程\12 绘图与图像\ImageProcess\ImageProcessor\obj\Debug\ImageProcessor.ParameterInputForm.resources
-D:\csharp课程\12 绘图与图像\ImageProcess\ImageProcessor\obj\Debug\ImageProcessor.csproj.GenerateResource.Cache

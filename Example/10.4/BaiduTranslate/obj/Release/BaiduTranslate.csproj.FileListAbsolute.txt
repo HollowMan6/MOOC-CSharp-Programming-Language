@@ -1,5 +1,0 @@
-C:\Users\tds\Desktop\BaiduTranslate\BaiduTranslate\bin\Release\BaiduTranslate.pdb
-C:\Users\tds\Desktop\BaiduTranslate\BaiduTranslate\obj\Release\BaiduTranslate.csprojResolveAssemblyReference.cache
-C:\Users\tds\Desktop\BaiduTranslate\BaiduTranslate\obj\Release\BaiduTranslate.pdb
-C:\Users\tds\Desktop\BaiduTranslate\BaiduTranslate\bin\Release\BaiduTranslate.exe
-C:\Users\tds\Desktop\BaiduTranslate\BaiduTranslate\obj\Release\BaiduTranslate.exe

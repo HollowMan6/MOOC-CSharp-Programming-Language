@@ -1,8 +1,0 @@
-D:\tmp\SolutionVersionConverter\obj\Debug\ResolveAssemblyReference.cache
-D:\tmp\SolutionVersionConverter\obj\Debug\SolutionVersionConverter.Form1.resources
-D:\tmp\SolutionVersionConverter\obj\Debug\SolutionVersionConverter.Properties.Resources.resources
-D:\tmp\SolutionVersionConverter\obj\Debug\SolutionVersionConverter.csproj.GenerateResource.Cache
-D:\tmp\SolutionVersionConverter\bin\Debug\SolutionVersionConverter.exe
-D:\tmp\SolutionVersionConverter\bin\Debug\SolutionVersionConverter.pdb
-D:\tmp\SolutionVersionConverter\obj\Debug\SolutionVersionConverter.exe
-D:\tmp\SolutionVersionConverter\obj\Debug\SolutionVersionConverter.pdb
